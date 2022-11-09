@@ -10,7 +10,7 @@ const Top = () => {
                 <div className="md:w-1/2 w-full md:mt-24">
                     <h1 className="text-4xl md:w-[25rem]"><strong>A Partner that helps your business compete on digital channels</strong></h1> 
                     <p className="mt-4 mb-4 md:w-96 text-3xl font-light italic">
-                       Tidy house has another spot! Enjoy and <span className="font-bold">have your website.</span>
+                       A tidy house is well-thought-out! <span className="font-bold"> Enjoy our exclusive Website deals!</span>
                     </p>
                     <p className="mt-4 mb-4 md:w-96 text-justify font-medium">
                     To keep up with audience, more and more companies are betting on the creation of digital customer relationship channels.
