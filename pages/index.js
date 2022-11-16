@@ -5,6 +5,7 @@ import Form from '../components/Form'
 import Header from '../components/Header'
 import Testemunhos from '../components/Testemunhos'
 import Top from '../components/Top'
+import About from '../components/About'
 import Script from 'next/script'
 
 export default function Home() {
@@ -14,6 +15,7 @@ export default function Home() {
           <Header></Header>
           <Top></Top>
         </div>
+        <About />
         <Descontos></Descontos>
         {/*<Form></Form>
         <Testemunhos></Testemunhos>*/}
