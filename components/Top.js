@@ -11,7 +11,7 @@ const Top = () => {
                 
 
                 <Form /> 
-                <div className="md:w-1/2 w-full">  
+                <div className="md:w-1/2 w-full gap-0 m-0 p-0">  
                     <Image src={laptop} width={1090} height={1000} alt="Black Friday" className="object-contain " />
                 </div>
 

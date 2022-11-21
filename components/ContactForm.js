@@ -1,15 +1,9 @@
+export default function ContactForm() {
+    return(
+        <div className="mt-28 mx-auto md:w-1/2 px-5">
+        <h3 className="text-center"> 
 
-const Form = () => {
-
-    return (
-     <div className="mx-auto md:w-1/2 px- w-full pb-20 ">
-        <h1 className="text-left text-4xl pl-5 font-bold md:pb-9 md:pl-8 pt-20"> 
-            A tidy house is well-thought-out! Enjoy our exclusive Website deals! 
-
-        </h1>
-
-        <h2 className="pt-4 pl-5 md:pl-8"> Fill in the fields below to obtain the desired information free of charge </h2>
-
+        Fill in the fields below to obtain the desired information free of charge</h3>
         {/*<form className="flex flex-col justify-center items-center gap-4 mt-8">
             <div>
                 <label className="font-medium text-sm">Name: </label>
@@ -69,8 +63,5 @@ const Form = () => {
         </div>
         </div>
     </div>
-
-    );
+    )
 }
-
-export default Form;

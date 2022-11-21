@@ -7,6 +7,7 @@ import Testemunhos from '../components/Testemunhos'
 import Top from '../components/Top'
 import About from '../components/About'
 import Script from 'next/script'
+import ContactForm from '../components/ContactForm'
 
 export default function Home() {
   return (
@@ -17,6 +18,7 @@ export default function Home() {
         </div>
         <About />
         <Descontos></Descontos>
+        <ContactForm />
         {/*<Form></Form>
         <Testemunhos></Testemunhos>*/}
     </div>
