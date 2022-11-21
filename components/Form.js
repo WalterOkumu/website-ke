@@ -3,7 +3,7 @@ const Form = () => {
 
     return (
      <div className="mx-auto md:w-1/2 px- w-full pb-20 ">
-        <h1 className="text-left text-4xl pl-5 font-bold md:pb-9 md:pl-8 pt-20"> 
+        <h1 className="text-left text-4xl pl-5 font-bold md:pb-9 md:pl-8 pt-20 text-[#FDEA03]"> 
             A tidy house is well-thought-out! Enjoy our exclusive Website deals! 
 
         </h1>
