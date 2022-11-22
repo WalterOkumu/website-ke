@@ -1,7 +1,7 @@
 export default function About() {
     return(
         <div className="md:w-1/2 w-full md:mt-24 md:mx-auto flex flex-col items-center pt-10 px-9">
-                    <h1 className="text-4xl text-left"><strong>A Partner that helps your business compete on digital channels</strong></h1> 
+                    <h1 className="text-4xl text-center"><strong>A Partner that helps your business compete on digital channels</strong></h1> 
                     <p className="mt-4 mb-4  text-3xl font-light italic text-left">
                        A tidy house is well-thought-out! <span className="font-bold"> Enjoy our exclusive Website deals!</span>
                     </p>
