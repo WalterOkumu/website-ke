@@ -2,12 +2,15 @@
 const Form = () => {
 
     return (
-     <div className="mx-auto md:w-1/2 px- w-full pb-20 ">
-        <h1 className="text-left text-4xl pl-5 font-bold md:pb-9 md:pl-8 pt-20 text-[#FDEA03]"> 
-            A tidy house is well-thought-out! Enjoy our exclusive Website deals!
+     <div className="mx-auto md:w-1/2 w-full mb-9">
+        <h1 className="text-left text-5xl font-bold mb-3 md:mt-20 text-[#FDEA03]"> 
+            Website Creation
         </h1>
+        <h2 className="text-left text-3xl font-bold mb-3 text-[#FDEA03]"> 
+            Make your business stand out on the digital ecosystem
+        </h2>
 
-        <h2 className="pt-4 pl-5 md:pl-8"> Fill in the fields below to obtain our Black Friday special offer </h2>
+        <h2 className="mb-3"> Fill in the fields below to obtain our Black Friday special offer </h2>
 
         {/*<form className="flex flex-col justify-center items-center gap-4 mt-8">
             <div>

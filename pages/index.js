@@ -7,20 +7,21 @@ import Testemunhos from '../components/Testemunhos'
 import Top from '../components/Top'
 import About from '../components/About'
 import Script from 'next/script'
+import Footer from '../components/Footer'
 import ContactForm from '../components/ContactForm'
 
 export default function Home() {
   return (
-    <div className='pb-10'>
+    <div>
         <div className='pt-8 md:h-screen px-10 bg-[#181818]'>
-          <Header></Header>
-          <Top></Top>
+          <Header />
+          <Top />
         </div>
         <About />
-        <Descontos></Descontos>
+        <Descontos />
         <ContactForm />
-        {/*<Form></Form>
-        <Testemunhos></Testemunhos>*/}
+        <Footer />
+        {/*<Testemunhos></Testemunhos>*/}
     </div>
   )
 }

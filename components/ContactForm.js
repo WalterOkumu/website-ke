@@ -1,6 +1,6 @@
 export default function ContactForm() {
     return(
-        <div className="mt-28 mx-auto md:w-1/2 px-5">
+        <div className="md:mt-20 mt-14 mx-auto md:w-1/2 px-5">
         <h3 className="text-center"> 
 
             Fill in the fields below to obtain our Black Friday special offer</h3>
@@ -22,10 +22,10 @@ export default function ContactForm() {
             </div>
         </form>*/}
 
-        <div id="mlb2-5795106" className="ml-form-embedContainer ml-subscribe-form ml-subscribe-form-5795106">
+        <div id="mlb2-5795106" className="text-center ml-form-embedContainer ml-subscribe-form ml-subscribe-form-5795106">
         <div className="ml-form-align-center">
             <div className="ml-form-embedWrapper embedForm">
-            <div className="ml-form-embedBody ml-form-embedBodyDefault row-form">
+            <div className="pt-5 ml-form-embedBody ml-form-embedBodyDefault row-form">
                 <div className="ml-form-embedContent" style={{marginBottom:0}}></div>
                 <form className="ml-block-form" action="https://static.mailerlite.com/webforms/submit/h4u1n5" data-code="h4u1n5" method="post" target="_blank">
                 <div className="ml-form-formContent">
