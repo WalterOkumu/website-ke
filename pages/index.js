@@ -5,23 +5,20 @@ import Form from '../components/Form'
 import Header from '../components/Header'
 import Testemunhos from '../components/Testemunhos'
 import Top from '../components/Top'
-import About from '../components/About'
 import Script from 'next/script'
-import Footer from '../components/Footer'
 import ContactForm from '../components/ContactForm'
 
 export default function Home() {
   return (
-    <div>
-        <div className='pt-8 md:h-screen px-10 bg-[#181818]'>
+    <div className='pb-10'>
+        <div className="pt-8 md:h-screen px-10 bg-no-repeat bg-cover bg-center bg-[url('/background-hero-mobile.png')] xl:bg-[url('/background-hero.png')]">
           <Header />
           <Top />
         </div>
-        <About />
         <Descontos />
         <ContactForm />
-        <Footer />
-        {/*<Testemunhos></Testemunhos>*/}
+        {/*<Form></Form>
+        <Testemunhos></Testemunhos>*/}
     </div>
   )
 }

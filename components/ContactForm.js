@@ -3,7 +3,7 @@ export default function ContactForm() {
         <div className="md:mt-20 mt-14 mx-auto md:w-1/2 px-5">
         <h3 className="text-center"> 
 
-            Fill in the fields below to obtain our Black Friday special offer</h3>
+            Preencha os campos abaixo para obter uma oferta especial de 30% de desconto</h3>
         {/*<form className="flex flex-col justify-center items-center gap-4 mt-8">
             <div>
                 <label className="font-medium text-sm">Name: </label>

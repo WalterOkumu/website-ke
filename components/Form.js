@@ -10,7 +10,7 @@ const Form = () => {
             Make your business stand out on the digital ecosystem
         </h2>
 
-        <h2 className="mb-3"> Fill in the fields below to obtain our Black Friday special offer </h2>
+        <h2 className="mb-3"> Preencha os campos abaixo para obter uma oferta especial de 30% de desconto </h2>
 
         {/*<form className="flex flex-col justify-center items-center gap-4 mt-8">
             <div>
