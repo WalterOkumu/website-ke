@@ -2,8 +2,8 @@ export default function ContactForm() {
     return(
         <div className="md:mt-20 mt-14 mx-auto md:w-1/2 px-5">
         <h3 className="text-center"> 
-
-            Preencha os campos abaixo para obter uma oferta especial de 30% de desconto</h3>
+           Fill in the fields below to obtain a special offer of 30% OFF
+        </h3>
         {/*<form className="flex flex-col justify-center items-center gap-4 mt-8">
             <div>
                 <label className="font-medium text-sm">Name: </label>
